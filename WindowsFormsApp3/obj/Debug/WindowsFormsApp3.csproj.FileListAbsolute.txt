@@ -1,0 +1,16 @@
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.forms.daoForms.AddProductForm.resources
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.forms.LoginForm.resources
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.forms.MenuFrom.resources
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.forms.RegistrationForm.resources
+C:\Users\Asus\RiderProjects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainFrom.resources
